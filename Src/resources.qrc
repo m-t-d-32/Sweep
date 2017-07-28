@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>flag.png</file>
+        <file>Hero.ico</file>
+        <file>BackImage.jpg</file>
+        <file>Main.ico</file>
+        <file>bomb.png</file>
+    </qresource>
+</RCC>
